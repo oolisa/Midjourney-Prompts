@@ -1,0 +1,18 @@
+Midjourney Commands
+
+—ar changes the aspect ratio from 16:9 to e.g 1:1 or 3:2 or 2:3, use 3:2 for big art
+
+—seed 12345678 allows you to copy the concept of a generated AI image and apply same concept to another one. First you must click on envelope on reactions and copy the seed number like below example :
+
+
+/imagine a lion wearing a baseball cap running with cars in the background --ar 3:2 --seed 3541761272
+
+Prompt cheatsheet : 
+
+Retrowave, Flat Retrowave 
+DuoTone, Flat Retrowave
+a 1990s point and click 16bit adventure game
+32-bit Isometric
+Phantasmal Iridescent
+Diagrammatic Drawing
+Watercolor Sketch 
